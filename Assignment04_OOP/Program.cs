@@ -23,6 +23,14 @@
             // method overriding is when you have a method in a child class that has the same name and parameters as a method in the parent class but acts different
 
             #endregion
+
+            #region Part01: Question03
+
+            // What keywords are used for Method Overriding? What does each one mean ?
+            // virtual --> used in the parent class , allows the method to be overridden in the child class
+            // override --> used in the child class 
+
+            #endregion
         }
     }
 }
